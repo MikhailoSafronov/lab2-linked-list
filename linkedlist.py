@@ -3,7 +3,7 @@ class ArrayList:
         self.data = []
 
     def length(self):
-        return len(self.data)
+        return -1
 
     def append(self, element):
         self.data.append(element)
